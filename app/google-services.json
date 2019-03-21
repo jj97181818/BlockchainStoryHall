@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57042452647",
+    "firebase_url": "https://storyhall-3af16.firebaseio.com",
+    "project_id": "storyhall-3af16",
+    "storage_bucket": "storyhall-3af16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57042452647:android:eb4a3c370d8252fd",
+        "android_client_info": {
+          "package_name": "com.example.asus.storyhall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57042452647-b0feje2jiph4k6djn0a76j2skf4kpfo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.storyhall",
+            "certificate_hash": "e753fb9c7781a18d414d67969e55c4d274c70bbb"
+          }
+        },
+        {
+          "client_id": "57042452647-2l6ngeok7ct7ceg6qdvmr3puc56j72cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5L4naf0q7GAfXMJglGuEvZx8576vjIqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57042452647-2l6ngeok7ct7ceg6qdvmr3puc56j72cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

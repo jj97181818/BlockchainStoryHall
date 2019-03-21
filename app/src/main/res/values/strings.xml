@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">StoryHall</string>
+    <string name="title_activity_register">register</string>
+
+    <string name="num1">第 1 題</string>
+    <string name="p1">下列何者不是區塊鏈特性？</string>
+    <string name="p1a1">A. 資料不可篡改</string>
+    <string name="p1a2">B. 利用複雜的公鑰與私鑰機制有效性</string>
+    <string name="p1a3">C. 比特幣的核心</string>
+    <string name="p1a4">D. 只能運作於銀行與支付業務之金流交易</string>
+
+    <string name="num2">第 2 題</string>
+    <string name="p2">以下哪個不屬於區塊鏈公有鏈的特性？</string>
+    <string name="p2a1">A. 匿名性</string>
+    <string name="p2a2">B. 不可篡改</string>
+    <string name="p2a3">C. 自治性</string>
+    <string name="p2a4">D. 需許可</string>
+
+    <string name="num3">第 3 題</string>
+    <string name="p3">BTC的總發行量是多少?</string>
+    <string name="p3a1">A. 2100萬</string>
+    <string name="p3a2">B. 2億</string>
+    <string name="p3a3">C. 1億</string>
+    <string name="p3a4">D. 1000萬</string>
+
+    <string name="num4">第 4 題</string>
+    <string name="p4">比特幣中最小的數量單位是？</string>
+    <string name="p4a1">A. CBTC</string>
+    <string name="p4a2">B. MCTC</string>
+    <string name="p4a3">C. Satoshi</string>
+    <string name="p4a4">D. mBTC</string>
+
+    <string name="num5">第 5 題</string>
+    <string name="p5">區塊鏈與比特幣的關係是？</string>
+    <string name="p5a1">A. 區塊鏈基於比特幣</string>
+    <string name="p5a2">B. 沒有關係</string>
+    <string name="p5a3">C. 並列關係</string>
+    <string name="p5a4">D. 比特幣基於區塊鏈</string>
+
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+
+
+    <string name="testResult">測驗結果</string>
+    <string name="scoreLow">繼續加油！</string>
+    <string name="scoreGeneral">不錯喔！</string>
+    <string name="scoreExcellent">太厲害了！</string>
+    <string name="detail">錯題詳情</string>
+    <string name="backToLast">回上一層</string>
+</resources>
